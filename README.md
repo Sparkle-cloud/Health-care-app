@@ -18,7 +18,4 @@ which contains the content of Remedy of the ailment initially diagonised for.
 
 All other files contain the button onclick events,Audios and images for the main program.
 
-#Backend created by SHARON JOANNA(Python,HTML,CSS and Javascript)
 
-
-#Frontend created by SRUTHI RAJAGOPALAN.(Pysimple GUI,Python)
